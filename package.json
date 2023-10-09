@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-integer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test if a finite double-precision floating-point number is an integer.",
   "license": "Apache-2.0",
   "author": {
@@ -39,7 +39,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-floor": "^0.1.0",
+    "@stdlib/math-base-special-floor": "^0.1.1",
     "@stdlib/utils-library-manifest": "^0.1.1"
   },
   "devDependencies": {
