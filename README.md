@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integer@esm/index.mjs';
+import isInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integer@v0.2.4-esm/index.mjs';
 ```
 
 #### isInteger( x )
@@ -96,7 +96,7 @@ var bool = isInteger( 1.0 );
 <body>
 <script type="module">
 
-import isInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integer@esm/index.mjs';
+import isInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integer@v0.2.4-esm/index.mjs';
 
 var bool = isInteger( -5.0 );
 // returns true
