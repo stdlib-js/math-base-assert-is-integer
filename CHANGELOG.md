@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-04-14)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d3089d5`](https://github.com/stdlib-js/stdlib/commit/d3089d54641409dada68d272140566daea12150a) - **bench:** update random value generation [(#6680)](https://github.com/stdlib-js/stdlib/pull/6680) _(by Harsh)_
 -   [`3129e35`](https://github.com/stdlib-js/stdlib/commit/3129e35d1daef24899fd03620f1bdd64d292cebd) - **refactor:** update `math/base/assert/is-integer` to follow latest project conventions [(#4627)](https://github.com/stdlib-js/stdlib/pull/4627) _(by Vivek Maurya)_
 -   [`2ea848b`](https://github.com/stdlib-js/stdlib/commit/2ea848b62b686e1e9d861f7df25ece23a7d80798) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
@@ -30,10 +31,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
+-   Harsh
 -   Philipp Burckhardt
 -   Vivek Maurya
 
