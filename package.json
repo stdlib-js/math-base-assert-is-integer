@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-integer",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Test if a finite double-precision floating-point number is an integer.",
   "license": "Apache-2.0",
   "author": {
@@ -44,8 +44,8 @@
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-double": "^0.2.1",
     "@stdlib/napi-create-int32": "^0.0.2",
-    "@stdlib/napi-export": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/napi-export": "^0.3.0",
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
